@@ -1,5 +1,4 @@
-​<h1 align="center">Hi 👋, I'm S.K</h1> 
-
+Hi 👋, I'm S.K
   
  ​-​ 🔭 I’m currently studying [​@IIT BHU(VARANASI)​](https://iitbhu.ac.in/) 
   

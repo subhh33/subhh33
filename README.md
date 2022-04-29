@@ -6,7 +6,6 @@ Hi 👋, I'm S.K
   
  ​-​ 👯 I’m looking to learn ​**everything** 
   
- ​-​ 🤝 I’m looking for help in blender ​**using Python** 
   
  ​-​ 💬 Ask me about ​**react , vue & gsap** 
   

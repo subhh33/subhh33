@@ -1,3 +1,12 @@
+@@ -7,7 +7,7 @@
+
+
+</h1>
+👋,+I+am+Shubham;+Welcome+to+My+Profile!
+
+<center> <img src="https://github.com/subhh33/onlyimages/blob/main/VID-20220424-WA0042%20(1)4.gif" width="100%"></center>
+<h3 align="center">A passionate from India blindly interested in programming.</h3>
+
 Hi 👋, I'm S.K
   
  ​-​ 🔭 I’m currently studying [​@IIT BHU(VARANASI)​](https://iitbhu.ac.in/) 

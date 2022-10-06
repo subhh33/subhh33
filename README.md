@@ -4,7 +4,7 @@ Hi 👋, I'm S.K
   
  ​-​ 🔭 I’m currently studying [​@IIT BHU(VARANASI)​](https://iitbhu.ac.in/) 
   
- ​-​ 🌱 I’m currently learning ​**WEB DEVELOPMENT** 
+ ​-​ 🌱 I’m currently learning ​**ML** 
   
  ​-​ 👯 I’m looking to learn ​**everything** 
   

@@ -14,4 +14,4 @@ Hi 👋, I'm S.K
  ​-​ 📫 How to reach me ​**iwannabackmylife@icloud.com** 
   
  ​-​ ⚡ Fun fact ​**Always busy in searching new resources.** 
-<video source src="https://github.com/shubham21155102/onlyimages/blob/main/bw%20sketch.mp4"></video>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhh33&label=Profile%20views&color=0e75b6&style=flat" alt="shubham21155102" /> </p>
